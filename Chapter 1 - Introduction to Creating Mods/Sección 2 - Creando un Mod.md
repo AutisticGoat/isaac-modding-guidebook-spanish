@@ -57,4 +57,4 @@ Este proceso se aplica igualmente para otros sprites, música, efectos de sonido
 
 # Más usos de la consola de desarrollo
 
-Si deseas aprender más sobre la Consola de Desarrollo y los comandos que esta posee, la Wiki de Isaac tiene [una página al respecto.](https://bindingofisaacrebirth.fandom.com/wiki/Debug_Console). Algunos comandos serán cubiertos a profundidad en secciones posteriores.
+Si deseas aprender más sobre la Consola de Desarrollo y los comandos que esta posee, la Wiki de Isaac tiene [una página al respecto](https://bindingofisaacrebirth.fandom.com/wiki/Debug_Console). Algunos comandos serán cubiertos a profundidad en secciones posteriores.
