@@ -32,19 +32,12 @@ Reemplazar recursos del juego con los tuyos es muy sencillo. Vamos a reemplazar 
 2. **Busca el sprite original.** Los recursos del juego están ubicados en las carpetas "resources" y "resources-dlc3" en el directorio del juego (`C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth\` para usuarios de Steam). "resources-dlc3" contiene recursos específicos de Repentance, mientras que "resources" contiene todo lo demás. Como The Sad Onion existe desde antes de Repentance, su sprite se encuentra en "resources". 
   * Navega hasta "resources" > "gfx" > "items" > "collectibles". Encontrarás el sprite de The Sad Onion llamado "collectibles_001_thesadonion.png". Recuerda su nombre y ubicación.
 
-3. **Mirror the folder structure in your mod.**
- * Create a "resources" folder within your mod folder.
- * Inside "resources", create a "gfx" folder.
- * Inside "gfx", create an "items" folder.
- * Inside "items", create a "collectibles" folder.
- * Place your new Sad Onion sprite inside the "collectibles" folder and name it "collectibles_001_thesadonion.png".
-
 3. **Imita la estructura de carpetas en tu mod.**
  * Crea una carpeta "resources" en la de tu mod.
  * Dentro de "resources", crea una carpeta "gfx".
  * Debtro de "gfx", crea una carpeta "items".
  * Dentro "items", crea una carpeta "collectibles".
- * COloca tu nuevo sprite de The Sad Onion dentro de la carpeta "collectibles" y renómbralo a "collectibles_001_thesadonion.png".
+ * Coloca tu nuevo sprite de The Sad Onion dentro de la carpeta "collectibles" y renómbralo a "collectibles_001_thesadonion.png".
 
 4. **Reinicia el juego si está corriendo.**
 
