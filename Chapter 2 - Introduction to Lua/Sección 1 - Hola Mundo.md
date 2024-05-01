@@ -30,8 +30,6 @@ A difrerencia de los recursos como sprites y animaciones, recargar archivos de L
 
 Al ejecutar el comando, deberás ver "¡Hola Mundo!" impreso en la consola. ¡Felicidades por ejecutar tu primer script de Lua!
 
-Upon running the command, you should see "Hello World!" printed onto the console. Congratulations on running your first Lua script!
-
 # Un vistazo a las impresiones
 
 La función `print` es usada para plasmar texto en la consola de desarrollo, puedes plasmar cualquier mensaje que quieras
