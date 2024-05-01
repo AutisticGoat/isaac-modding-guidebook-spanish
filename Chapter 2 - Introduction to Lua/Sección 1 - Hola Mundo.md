@@ -67,7 +67,7 @@ Aunque se presente como algo simple, `print` es una herramienta de depuración p
 1.) ¿Qué es Lua?
 
 <details>
-  <summary>Solution</summary>
+  <summary>Solución</summary>
   Lua es un lenguaje de scripting ligero, de alto nivel e incrustado.
 </details>
 <br>
@@ -75,7 +75,7 @@ Aunque se presente como algo simple, `print` es una herramienta de depuración p
 2.) ¿Qué función es utilizada para plasmar texto en la consola?
 
 <details>
-  <summary>Solution</summary>
+  <summary>Solución</summary>
   `print`
 </details>
 <br>
@@ -86,7 +86,7 @@ Aunque se presente como algo simple, `print` es una herramienta de depuración p
  - Estoy bien, gracias.
 
   <details>
-  <summary>Solution</summary>
+  <summary>Solución</summary>
 
   ```lua
   print("¡Hola!")
